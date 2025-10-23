@@ -1,0 +1,46 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VSCode
+.vscode/
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# System
+Thumbs.db
+Desktop.ini
+
+# Others
+.env
+.idea/
+*.swp
+*.swo
+
+# Build
+/dist/
+/build/
+
+# Coverage
+coverage/
+
+# Local files
+local.settings.json
+copilot-commit-message-instructions.md
