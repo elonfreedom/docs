@@ -1,7 +1,7 @@
 # Fork
 
 - 官网地址：[https://git-fork.com/](https://git-fork.com/)
-- 下载直达：[https://git-fork.com/download](https://git-fork.com/download)
+- 下载直达：[https://git-fork.com/download](https://git-fork.com/)
 
 Fork 是一款功能强大的 Git 图形化客户端，支持 macOS 和 Windows 平台，界面简洁，操作便捷，适合开发者日常使用。
 
