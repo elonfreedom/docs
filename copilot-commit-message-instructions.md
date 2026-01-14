@@ -1,13 +1,3 @@
-<!--
- * @Author: elonfreedom elonfreedom@qq.com
- * @Date: 2025-10-23 14:15:41
- * @LastEditors: elonfreedom elonfreedom@qq.com
- * @LastEditTime: 2025-10-23 15:25:21
- * @FilePath: /docs/copilot-commit-message-instructions.md
- * @Description: 
- * 
- * Copyright (c) 2025 by ${git_name_email}, All Rights Reserved. 
--->
 # 提交消息生成指令
 
 请严格遵循以下格式生成提交消息：
@@ -43,11 +33,12 @@
 - 建议不超过 50 个字符。
 - 使用中文，首字母小写，结尾不加标点。
 - header注释的更新时间修改不需要统计。
+
 ---
 
 ## 4. 示例
 
-```
+``` shell
 feat(user): 新增用户实名认证功能
 fix(api): 修复接口请求参数错误
 docs(readme): 完善项目启动说明

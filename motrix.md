@@ -6,6 +6,7 @@
 Motrix 是一款全能的下载管理器，支持 HTTP、FTP、BT、磁力链等多种协议，界面简洁，跨平台（Windows、macOS、Linux）。
 
 ## 主要特性
+
 - 支持多种下载协议（HTTP、FTP、BT、磁力链等）
 - 简洁美观的用户界面
 - 多任务同时下载
@@ -14,4 +15,5 @@ Motrix 是一款全能的下载管理器，支持 HTTP、FTP、BT、磁力链等
 - 支持 Aria2 RPC
 
 ## 相关资源
+
 - [官方网站](https://motrix.app/)

@@ -1,13 +1,3 @@
-<!--
- * @Author: elonfreedom elonfreedom@qq.com
- * @Date: 2025-10-23 14:05:32
- * @LastEditors: elonfreedom elonfreedom@qq.com
- * @LastEditTime: 2025-10-30 14:36:00
- * @FilePath: /docs/README.md
- * @Description: 
- * 
- * Copyright (c) 2025 by ${git_name_email}, All Rights Reserved. 
--->
 # Docs
 
 ## 软件导航
