@@ -19,4 +19,4 @@
 
 | 名称 | 说明 |
 | ---- | ---- |
-| [Agent Skill: VSCode 使用指南](ai/agentskill.md) | 在 VSCode 中使用 agent / skill 的简要说明 |
+| [Agent Skill](ai/agentskill.md) | 在 VSCode 中使用 agent / skill 的简要说明 |

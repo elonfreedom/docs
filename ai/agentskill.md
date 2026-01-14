@@ -1,4 +1,4 @@
-# VS Code Agent Skill（面向用户的快速上手与示例）
+# VS Code Agent Skill
 
 本文件基于官方文档整理，面向仓库维护者与普通开发者，说明如何创建、组织与使用 Agent Skills（SKILL.md）。
 
