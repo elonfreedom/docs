@@ -8,3 +8,9 @@
 | [Audacity](./audacity.md) | 开源音频编辑与录制软件 | [下载直达](https://www.audacityteam.org/download/) |
 | [Motrix](./motrix.md) | 全能下载管理器 | [下载直达](https://motrix.app/download) |
 | [MonitorControl](./monitorcontrol.md) | 显示器亮度音量调节 | [下载直达](https://monitorcontrol.app) |
+
+## 指南
+
+| 名称 | 简介 | 链接 |
+| ---- | ---- | ---- |
+| PostgreSQL 操作指南 | 关系型数据库安装、备份与运维指南 | [文档](./postgresql.md) |
